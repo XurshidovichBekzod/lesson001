@@ -1,7 +1,9 @@
 import Header from '@/components/Header'
 import React from 'react'
 
-const Recipes = () => {
+const Recipes = async() => {
+ 
+
   return (
     <>
     
